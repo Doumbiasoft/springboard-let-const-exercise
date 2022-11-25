@@ -18,7 +18,7 @@ PI = 42;
 
 ## Quiz
 
-- What is the difference between var and let?
+What is the difference between var and let?
 
 `var` :
   - Can be Reassign,
@@ -32,7 +32,7 @@ PI = 42;
   - Can be Mutate
   -	block scope // that means it is available in the curly braces where is defined
 
-- What is the difference between var and const?
+What is the difference between var and const?
 
 `var` :
   - Can be Reassign,
@@ -46,7 +46,7 @@ PI = 42;
   - Can be Mutate
   -	block scope // that means it is available in the curly braces where is defined
 
-- What is the difference between let and const?
+What is the difference between let and const?
 
 `let` :
   - Can be Reassign,
@@ -60,6 +60,6 @@ PI = 42;
   - Can be Mutate
   -	block scope // that means it is available in the curly braces where is defined
 
-- What is hoisting?
+What is hoisting?
 
  Hoisting is a behavior of `var`, `let` and `const` keywords.
