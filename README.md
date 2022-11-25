@@ -61,4 +61,5 @@ PI = 42;
   -	block scope // that means it is available in the curly braces where is defined
 
 - What is hoisting?
+
  Hoisting is a behavior of `var`, `let` and `const` keywords.
